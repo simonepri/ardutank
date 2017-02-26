@@ -2,7 +2,7 @@
  * Ardutank
  *
  * @author        Simone Primarosa,(http://simoneprimarosa.com)
- * @link          (https://github.com/simonepri/talking-unicormn)
+ * @link          (https://github.com/simonepri/ardu-tank)
  * @license       MIT License (https://opensource.org/licenses/MIT)
  */
 
